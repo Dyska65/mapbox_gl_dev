@@ -10,6 +10,8 @@ import 'dart:js_util';
 import 'dart:math';
 import 'dart:typed_data';
 import 'dart:ui' as ui;
+import 'dart:ui_web' as uiWeb;
+
 import 'package:flutter/services.dart';
 
 import 'package:flutter/foundation.dart';
